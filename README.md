@@ -1,6 +1,6 @@
 # sraplus-deps
 
-Dependency analysis of the [`sraplus`](https://github.com/DanOvando/sraplus)
+Dependency analysis of the [sraplus](https://github.com/DanOvando/sraplus)
 package.
 
 The `sraplus` package depends on several packages, which in turn depend on other
